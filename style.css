@@ -1,0 +1,22 @@
+/* I make the visual of the webpage more appealing to the viewer */
+body {
+background-color: aquamarine;
+} 
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 3em;
+    background-color: cornsilk;
+    border-style: solid;
+    border-color: black;
+}
+
+#map{
+    width: 500px;
+    height: 400px;
+}
+video{
+    width: 500px;
+    height: 400px;
+}
